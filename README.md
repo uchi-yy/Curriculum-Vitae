@@ -1,5 +1,5 @@
 # 職務経歴書
-2020/03/29 更新
+2020/05/16 現在
 
 ## 基本情報
 
@@ -8,7 +8,7 @@
 |Name|uchi_y|
 |E-mail|contact(at)p-t-box.com|
 |Site|[p-t-box.com](https://p-t-box.com)|
-|GitHub|[@uchi_yy](https://github.com/uchi-yy)|
+|GitHub|[@uchi-yy](https://github.com/uchi-yy)|
 |Qiita|[@uchi_y](https://qiita.com/uchi_y)|
 
 ## スキル
@@ -25,7 +25,7 @@
 - Python
   - Flask
 - DB
-  - MySQL, Oracle, DB2
+  - MySQL, MariaDB, Oracle, DB2
 - Vagrant, Ansible
   - 開発環境構築用のPlaybookが書ける程度
 
