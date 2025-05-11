@@ -1,5 +1,5 @@
 # 職務経歴書
-2020/05/16 現在
+2025/05/11 現在
 
 ## 基本情報
 
@@ -21,11 +21,16 @@
 
 ### 独立して作業ができる
 - AWS
-  - EC2, S3, RDS, DynamoDB, Lambda, API Gateway, Kinesis Data Streams, Cognito, 他いろいろ
+  - EC2, S3, RDS, DynamoDB, Lambda, Batch, SNS, API Gateway, Kinesis Data Streams, Cognito, 他いろいろ
+  - 様々なサービスを組み合わせてアプリケーション構築ができる
 - Python
   - Flask
 - DB
   - MySQL, MariaDB, Oracle, DB2
+- Snowflake
+  - タスクの作成
+  - S3とのデータ連携
+  - データシェアリング
 - Vagrant, Ansible
   - 開発環境構築用のPlaybookが書ける程度
 
@@ -41,6 +46,8 @@
 - Ruby(Ruby on Rails)
 - Perl
 - Docker
+- Scala
+- Tableau
 - 他 多数
 
 ### その他
@@ -75,6 +82,11 @@
 
 #### 主な仕事内容
 - 電子マネー決済システムの保守/開発/DB更改
+- メーカーの商品と連動したポイント管理システムの開発
+  - 技術選定、アーキテクチャ設計
+- 大規模小売店のPOSデータ管理システムの保守/開発
+  - TableauServer/Desktopを利用した大規模データ集計
+- エンジニアスクール 講師
 
 ### 2012/11 - 2019/07: 都内システム会社
 職務: サーバーサイドエンジニア
